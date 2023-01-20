@@ -8,7 +8,7 @@ Comandos odoo :
 
 -- Unos ejemplos de los comandos de netstat:
 
-	- El comando mas utilizado: netstat -a. El cual enumera  los puertos abiertos
+  - El comando mas utilizado: netstat -a. El cual enumera  los puertos abiertos
   - netstat -e : Estadísticas de interfaz (paquetes de datos recibidos y enviados, etc.)
   - netstat -i : Abrir el menú general de netstat
   - netstat -n : Visualización numérica de direcciones y números de puerto
